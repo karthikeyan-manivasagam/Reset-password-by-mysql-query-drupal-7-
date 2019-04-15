@@ -9,7 +9,6 @@
  * @category  Drupal 7 utility
  * @author     Karthikeyan Manivasagam karthikeyanm.inbox@gmail.com
  * @copyright  2019 Karthikeyan Manivasagam
- * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
  */
  
 /*Use drupal's root directory to write the below script :
